@@ -2,7 +2,15 @@
 
 The goal is for a mobile device to be able to show a movie when it sees an image.
 
-We actually want to be able to have 3 or 4 images be recognized.
+# Usage
+
+Put these files on a server somewhere such as 
+https://glitch.com/edit/#!/traci-markerless-ar
+https://traci-markerless-ar.glitch.me/
+
+Visit this url on your phone. Your phone will switch to pass through mode. Look at the sample image - there is a copy here:
+
+https://github.com/anselm/traci2/blob/main/data/image1.png
 
 ## User Flow
 
